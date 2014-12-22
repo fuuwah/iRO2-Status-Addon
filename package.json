@@ -1,0 +1,12 @@
+{
+	"name": "iro2-status-addon",
+	"title": "iRO2 Status Add-on",
+	"id": "jid1-sNoakJPSv3rXvw",
+	"description": "Check status of iRO2 official servers.",
+	"author": "Gabriel Cavallo",
+	"license": "GPLv3",
+	"version": "0.4",
+	"permissions": {
+		"cross-domain-content": ["http://status.niceboat-guild.com/"]
+	}
+}

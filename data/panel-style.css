@@ -1,0 +1,12 @@
+* { margin: 0; padding: 0; }
+html { padding: 5px; }
+body { font-family: 'Open Sans'; font-size: 16px; font-weight: 400; color: #FFF }
+ol { list-style-type: none; }
+li { margin-bottom: 5px; padding: 5px; }
+li.loading, li.unknown { background-color: #AAA; }
+li.online { background-color: #0A0; }
+li.offline, li.maintenance { background-color: #A00; }
+li strong { font-family: 'Open Sans'; font-weight: 600; }
+h1, h6 { margin-bottom: 5px; font-size: 12px; font-weight: normal; color: #AAA; }
+h6 { float: right; }
+.copyleft { display: inline-block; transform: scaleX(-1); }
