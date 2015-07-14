@@ -5,7 +5,7 @@
 	"description": "Check status of iRO2 official servers.",
 	"author": "Gabriel Cavallo",
 	"license": "GPLv3",
-	"version": "0.4",
+	"version": "0.5",
 	"permissions": {
 		"cross-domain-content": ["http://status.niceboat-guild.com/"]
 	}
